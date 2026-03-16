@@ -10,4 +10,5 @@
 - MRO (Method Resolution Order) — need to revisit with multiple inheritance
 
 ### Resources used
-- Corey Schafer OOP series – https://youtu.be/ZDa-Z5JzLYM
+- OOP Basic – [https://youtu.be/ZDa-Z5JzLYM](https://realpython.com/python3-object-oriented-programming/)
+- Python Class Constructors - https://realpython.com/python-class-constructor/
