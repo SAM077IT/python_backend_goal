@@ -24,3 +24,7 @@ class Dog(Animal):
 dog = Dog("Bruno")
 dog.speak()     # Bruno says Woof
 dog.fetch()     # Bruno fetches the ball!
+
+ani = Animal("Tomy", "Whhhooo")
+
+print(ani)
