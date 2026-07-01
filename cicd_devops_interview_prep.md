@@ -31,7 +31,7 @@
 ### Pipeline Stages (remember this pattern)
 
 ```
-Code Push → Lint/Format → Unit Tests → Build Image → Push to Registry → Deploy to Staging → Smoke Test → Deploy to Production
+Code Push → Lint/Format → Unit Tests → Build Image → Push to Registry → Deploy to Staging → Smoke Test(build verification testing) → Deploy to Production
 ```
 
 ### Why It Reduces Production Issues (resume talking point)
